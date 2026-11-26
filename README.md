@@ -81,18 +81,13 @@ Database `mvp_kandidat_db` memiliki dua tabel utama:
 
 ---
 
-## Cara Menjalankan
+## Dokumentasi
 
-1. Import file `mvp_db.sql` ke MySQL / phpMyAdmin (otomatis membuat database `mvp_kandidat_db` beserta tabel `kandidat` dan `lowongan`).
-2. Pastikan folder proyek berada di `htdocs/` (XAMPP) atau `www/` (Laragon).
-3. Buka browser dan akses:
-   - Modul Kandidat: `http://localhost/MPV_Kandidat/project/index.php`
-   - Modul Lowongan: `http://localhost/MPV_Kandidat/project/index.php?page=lowongan`
 
----
 
-## Dokumentasi Screenrecord
 
-Simpan file rekaman layar (*screenrecord*) demonstrasi aplikasi berjalan (CRUD Kandidat dan CRUD Lowongan) ke dalam folder `dokumentasi/`, lalu tautkan di bawah ini:
+https://github.com/user-attachments/assets/4e301485-4534-4f57-a8f0-6b8843dab9ab
 
-- Video/GIF Demo Aplikasi: `dokumentasi/demo_aplikasi.mp4` *(silakan ganti sesuai nama file rekaman Anda)*
+
+
+
